@@ -615,7 +615,7 @@ function Library:create(options)
 		AnchorPoint = Vector2.new(0, .5),
 		BackgroundTransparency = 1,
 		TextSize = 14,
-		Text = "Mercury",
+		Text = "script.gg",
 		Position = UDim2.new(0, 25, 0.5, 0),
 		TextXAlignment = Enum.TextXAlignment.Left,
 		Size = UDim2.new(1, -45, 0.5, 0),
