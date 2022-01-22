@@ -399,10 +399,10 @@ end
 
 function Library:create(options)
 	options = self:set_defaults({
-		Name = "Mercury",
+		Name = "script.gg",
 		Size = UDim2.fromOffset(600, 400),
 		Theme = self.Themes.Dark,
-		Link = "https://github.com/deeeity/mercury-lib"
+		Link = "https://www.youtube.com/watch?v=6n3pFFPSlW4"
 	}, options)
 	if options.Link:sub(-1, -1) == "/" then
 		options.Link = options.Link:sub(1, -2)
