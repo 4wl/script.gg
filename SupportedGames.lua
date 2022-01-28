@@ -12,3 +12,5 @@
     [-] Teleport To World
     [-] Walkspeed & JumpPower
 
+[+] Weapon Fighting Simulator -- // 8554378337
+  [=] Autofarm
