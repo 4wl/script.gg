@@ -6,23 +6,8 @@ end
 if game.PlaceId==3102144307 then
 load("https://raw.githubusercontent.com/MrSerial/script.gg/main/SupportedGames/AnimeClickerSimulator.lua")
 end
-if game.PlaceId==5346447287 then
-load("")
-end
-if game.PlaceId==1962086868 then
-load("")
-end
-if game.PlaceId==155615604 then
-load("")
-end
-if game.PlaceId==1537690962 then
-load("")
-end
-if game.PlaceId==3101667897 then
-load("")
-end
-if game.PlaceId==142823291 then
-load("")
+if game.PlaceId==8554378337 then
+load("https://raw.githubusercontent.com/Kederal/script.gg/main/SupportedGames/Weapon%20Fighting%20Simulator.lua")
 end
 if nouni==false then
 load("")
