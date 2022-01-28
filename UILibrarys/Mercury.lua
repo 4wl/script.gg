@@ -2494,7 +2494,7 @@ function Library:credit(options)
 				Theme = {BackgroundColor3 = {"Main", 10}}
 			}):round(5):tooltip("copy robloxscripts")
 			local RobloxScripts = RobloxScriptsContainer:object("ImageLabel", {
-				Image = "http://www.roblox.com/asset/?id=8659036436",
+				Image = "http://www.roblox.com/asset/?id=8659509522",
 				Size = UDim2.new(1, -4, 1, -4),
 				Centered = true,
 				BackgroundTransparency = 1
