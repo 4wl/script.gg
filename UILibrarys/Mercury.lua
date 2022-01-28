@@ -870,7 +870,7 @@ function Library:create(options)
 	
 	rawset(mt, "creditsContainer", creditsTab.container)
 	
-	creditsTab:credit{Name = "Adam", Description = "Developer", Discord = "GoldenTerm#3954", V3rmillion = "NickAdam"}
+	creditsTab:credit{Name = "Kederal", Description = "Developer", Discord = "Kederal#3954", RobloxScripts = "Kolo"}
 	creditsTab:credit{Name = "Abstract", Description = "UI Library Developer", Discord = "Abstract#8007", V3rmillion = "AbstractPoo"}
 	creditsTab:credit{Name = "Deity", Description = "UI Library Developer", Discord = "Deity#0228", V3rmillion = "0xDEITY"}
 	
@@ -2484,6 +2484,24 @@ function Library:credit(options)
 
 			v3rmillionContainer.MouseButton1Click:connect(function()
 				setclipboard(options.V3rmillion)
+			end)
+		end
+			if options.RobloxScripts then
+			local RobloxScriptsContainer = creditContainer:object("TextButton", {
+				AnchorPoint = Vector2.new(1, 1),
+				Size = UDim2.fromOffset(24, 24),
+				Position = UDim2.new(1, -40, 1, -8),
+				Theme = {BackgroundColor3 = {"Main", 10}}
+			}):round(5):tooltip("copy robloxscripts")
+			local RobloxScripts = RobloxScriptsContainer:object("ImageLabel", {
+				Image = "http://www.roblox.com/asset/?id=8659036436",
+				Size = UDim2.new(1, -4, 1, -4),
+				Centered = true,
+				BackgroundTransparency = 1
+			})
+
+			RobloxScriptsContainer.MouseButton1Click:connect(function()
+				setclipboard(options.RobloxScripts)
 			end)
 		end
 	end
