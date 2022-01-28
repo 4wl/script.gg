@@ -392,7 +392,7 @@ function Library:create(options)
 		Name = "Mercury",
 		Size = UDim2.fromOffset(600, 400),
 		Theme = self.Themes.Dark,
-		Link = "https://github.com/deeeity/mercury-lib"
+		Link = "https://script.gg"
 	}, options)
 	
 	if getgenv and getgenv().MercuryUI then
