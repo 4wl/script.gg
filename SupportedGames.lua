@@ -1,20 +1,15 @@
-[+] Anime Clicker Simulator -- // 3102144307 (Script Getting Released Soon)
-  [=] Autofarm
-    [-] AutoTap
-    [-] Auto Boss
-    [-] Auto Rebirth
-    [-] Auto Hatch
-    [-] Auto Daily Rewards
-  [=] Auto Upgrade
-    [-] Auto Achievements
-    [-] Auto Upgrade
-  [=] Misc
-    [-] Teleport To World
-    [-] Walkspeed & JumpPower
-
 [+] Weapon Fighting Simulator -- // 8554378337
   [=] Autofarm
     [-] Autofarm
       [-] Auto Collect
   [=] Misc
     [-] Free Gamepasses
+
+[+] Devious Lick Simulator -- // 7508789810
+  [=] Autofarm
+    [-] Autofarm
+    [-] Auto Sell
+    [-] Auto Hatch
+    [-] Auto Triple Hatch
+  [=] Misc
+    [-] Walkspeed & JumpPower
