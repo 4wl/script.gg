@@ -1,4 +1,4 @@
-[+] Anime Clicker Simulator -- // 3102144307
+[+] Anime Clicker Simulator -- // 3102144307 (Script Getting Released Soon)
   [=] Autofarm
     [-] AutoTap
     [-] Auto Boss
